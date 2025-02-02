@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"cd7f020dbdb4dfea","type":"text","text":"asd","x":-100,"y":100,"width":250,"height":60},
 		{"id":"decf479da73862b3","type":"file","file":"remote-git/Screenshot_1.png","x":-175,"y":220,"width":400,"height":372},
-		{"id":"785d89218822eb4b","type":"text","text":"asds\nasd","x":80,"y":-200,"width":250,"height":60,"color":"1"},
+		{"id":"785d89218822eb4b","type":"text","text":"asds\nasds","x":80,"y":-200,"width":250,"height":60,"color":"1"},
 		{"id":"9400c4992a59b24d","type":"text","text":"teste","x":-280,"y":-80,"width":250,"height":60}
 	],
 	"edges":[

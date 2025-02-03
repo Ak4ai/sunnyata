@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"a5a17830c2865874","type":"file","file":"remote-git/Free de la Hoya/Freeimgs/Silas de lá hoya.jpg","x":-627,"y":-320,"width":220,"height":300},
+		{"id":"cfc75075acc5f551","type":"file","file":"remote-git/Free de la Hoya/Freeimgs/Free de lá hoya.jpg","x":-240,"y":80,"width":400,"height":352},
+		{"id":"4067f724d577e63e","type":"file","file":"remote-git/Free de la Hoya/Freeimgs/Cloi Belmont.jpg","x":-353,"y":-640,"width":226,"height":320},
+		{"id":"79a86ebaa457b1bf","type":"file","file":"remote-git/Free de la Hoya/Freeimgs/Sara trantoul.jpg","x":-40,"y":-640,"width":261,"height":320},
+		{"id":"e872d3e2808199c0","type":"file","file":"remote-git/Free de la Hoya/Freeimgs/Zafiel Vertú.jpg","x":353,"y":-320,"width":283,"height":400},
+		{"id":"beef91dc75ec3489","type":"file","file":"remote-git/Free de la Hoya/Freeimgs/Cruz.jpg","x":740,"y":-320,"width":288,"height":400},
+		{"id":"006b0b951bf494a1","type":"file","file":"remote-git/Free de la Hoya/Freeimgs/Dominique Vertu.jpg","x":495,"y":560,"width":303,"height":352},
+		{"id":"6ee36cd3c40b363d","type":"file","file":"remote-git/Free de la Hoya/Freeimgs/Pierre Vertú.jpg","x":920,"y":512,"width":283,"height":400}
+	],
+	"edges":[
+		{"id":"51f1a17b70f022ae","fromNode":"006b0b951bf494a1","fromSide":"left","toNode":"cfc75075acc5f551","toSide":"right"},
+		{"id":"4def54ab3c84c94b","fromNode":"a5a17830c2865874","fromSide":"right","toNode":"cfc75075acc5f551","toSide":"top"},
+		{"id":"426ea24be9df87ec","fromNode":"4067f724d577e63e","fromSide":"bottom","toNode":"cfc75075acc5f551","toSide":"top"},
+		{"id":"0b098f5198a19a5f","fromNode":"79a86ebaa457b1bf","fromSide":"bottom","toNode":"cfc75075acc5f551","toSide":"top"},
+		{"id":"17e0331331247541","fromNode":"e872d3e2808199c0","fromSide":"bottom","toNode":"006b0b951bf494a1","toSide":"top"},
+		{"id":"9c2862ca94b79fa7","fromNode":"beef91dc75ec3489","fromSide":"bottom","toNode":"006b0b951bf494a1","toSide":"top"},
+		{"id":"615612c567fddcad","fromNode":"beef91dc75ec3489","fromSide":"bottom","toNode":"6ee36cd3c40b363d","toSide":"top"},
+		{"id":"72bc54e57c4418d6","fromNode":"e872d3e2808199c0","fromSide":"bottom","toNode":"6ee36cd3c40b363d","toSide":"top"},
+		{"id":"11cd6eb63a6f2765","fromNode":"cfc75075acc5f551","fromSide":"right","toNode":"006b0b951bf494a1","toSide":"left"}
+	]
+}

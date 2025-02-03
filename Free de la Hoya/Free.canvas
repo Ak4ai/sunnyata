@@ -7,7 +7,7 @@
 		{"id":"e872d3e2808199c0","type":"file","file":"remote-git/Free de la Hoya/Freeimgs/Zafiel Vertú.jpg","x":353,"y":-320,"width":283,"height":400},
 		{"id":"beef91dc75ec3489","type":"file","file":"remote-git/Free de la Hoya/Freeimgs/Cruz.jpg","x":740,"y":-320,"width":288,"height":400},
 		{"id":"006b0b951bf494a1","type":"file","file":"remote-git/Free de la Hoya/Freeimgs/Dominique Vertu.jpg","x":495,"y":560,"width":303,"height":352},
-		{"id":"6ee36cd3c40b363d","type":"file","file":"remote-git/Free de la Hoya/Freeimgs/Mikael Vertu.jpg","x":920,"y":512,"width":283,"height":400}
+		{"id":"6ee36cd3c40b363d","type":"file","file":"remote-git/Free de la Hoya/Freeimgs/Pierre Vertú.jpg","x":920,"y":512,"width":283,"height":400}
 	],
 	"edges":[
 		{"id":"51f1a17b70f022ae","fromNode":"006b0b951bf494a1","fromSide":"left","toNode":"cfc75075acc5f551","toSide":"right"},

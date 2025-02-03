@@ -19,11 +19,9 @@
 		{"id":"2b27c1ed267caeb0","type":"text","text":"Grande chance de ambos os documentos terem relação.\n\n- Na conversa da esquerda fala da criação do Crânio e que ele possui um **conhecimento profundo e escondido**.\n\n- No documento da esquerda, o anel disse que na formação de alguém fez com que informações fossem cravadas nessa pessoa sem que ela soubesse.\n\n- O último ponto é que ambos documentos fazem referência de que essa pessoa é importante para o Eris/Verdadeiro Transcender.","x":-3698,"y":3257,"width":406,"height":395},
 		{"id":"87175142b37a412f","type":"file","file":"remote-git/Martin Spectend/Documentos/Inimigo.md","x":-3206,"y":2913,"width":487,"height":1083},
 		{"id":"2d4184d790a51fdd","type":"file","file":"remote-git/Martin Spectend/Documentos/Pasted image 20250120113248.png","x":-2583,"y":3027,"width":440,"height":626},
-		{"id":"ef2f5a5970df7753","type":"text","text":"Eris Wolfgang, a segunda cabeça draconiana. \nAparentemente é um metamorfo. Parece conseguir \"roubar\" habilidades, além de ser capaz de produzir poemas/documentos. Tem a capacidade de quebrar a 'quarta parede'\n\nEris é o atual Nêmesis.","x":-2588,"y":3747,"width":451,"height":197,"color":"#ffffff"},
 		{"id":"5caa78b06ed2f2a0","type":"file","file":"remote-git/Martin Spectend/Documentos/NotasDaquele.md","x":-2886,"y":4347,"width":487,"height":1173},
 		{"id":"a995edeae211f30d","type":"file","file":"remote-git/Martin Spectend/Documentos/Sátiro.md","x":-565,"y":2852,"width":540,"height":1201},
 		{"id":"8542c1940f1ec76d","type":"file","file":"remote-git/Martin Spectend/Documentos/01.md","x":650,"y":2883,"width":560,"height":1138},
-		{"id":"0937f3c47abf2be3","type":"file","file":"remote-git/Martin Spectend/Documentos/Inimigo2.md","x":-1979,"y":2913,"width":480,"height":1083},
 		{"id":"84b481e0d3642af7","type":"file","file":"remote-git/Martin Spectend/Documentos/Primeiro Nêmesis.md","x":-556,"y":4122,"width":525,"height":883},
 		{"id":"72e833b32410d8a4","type":"file","file":"remote-git/Martin Spectend/Documentos/Ap1..1.md","x":680,"y":4131,"width":530,"height":865},
 		{"id":"809939a4d722e61c","type":"file","file":"remote-git/Martin Spectend/Documentos/Subsídio.md","x":2356,"y":-2100,"width":400,"height":620},
@@ -74,7 +72,9 @@
 		{"id":"6966aaf8f1478ae1","type":"file","file":"remote-git/Martin Spectend/Documentos/三つ (3).md","x":-574,"y":9320,"width":560,"height":1000},
 		{"id":"dfdbd9cc9f620b4c","type":"file","file":"remote-git/Martin Spectend/Documentos/NotasDaquele2.md","x":-2280,"y":4414,"width":487,"height":1040},
 		{"id":"b845ed6e130f8206","type":"file","file":"remote-git/Martin Spectend/Documentos/CRÔNICAS EFÊMERAS - VII.pdf","x":-5277,"y":-3760,"width":730,"height":560},
-		{"id":"af6b595ac4ca2d96","type":"text","text":"O Trio aparentemente é parte de um clube chamado: Clube Extra Oficial dos Arquidemônios.\n\nNenhum dos 3 nomes (Kain, Asmodeus e Alastor) são os nomes verdadeiros dos mesmo. São espécies de títulos. No documento [[01_10_1003000]], vimos que Alastor é um título de uma família. ","x":-5132,"y":-3160,"width":440,"height":220,"color":"#ffffff"}
+		{"id":"af6b595ac4ca2d96","type":"text","text":"O Trio aparentemente é parte de um clube chamado: Clube Extra Oficial dos Arquidemônios.\n\nNenhum dos 3 nomes (Kain, Asmodeus e Alastor) são os nomes verdadeiros dos mesmo. São espécies de títulos. No documento [[01_10_1003000]], vimos que Alastor é um título de uma família. ","x":-5132,"y":-3160,"width":440,"height":220,"color":"#ffffff"},
+		{"id":"ef2f5a5970df7753","type":"text","text":"Eris Wolfgang, a segunda cabeça draconiana, o atual Nêmesis.\n\nAparentemente é um metamorfo. Parece conseguir \"roubar\" habilidades, além de ser capaz de produzir poemas e documentos. Tem a capacidade de quebrar a 'quarta parede'.","x":-2613,"y":3760,"width":500,"height":160,"color":"#ffffff"},
+		{"id":"0937f3c47abf2be3","type":"file","file":"remote-git/Martin Spectend/Documentos/Inimigo2.md","x":-2020,"y":2913,"width":480,"height":1083}
 	],
 	"edges":[
 		{"id":"b53772213f4f6de2","fromNode":"87175142b37a412f","fromSide":"right","toNode":"0937f3c47abf2be3","toSide":"left","fromEnd":"arrow","color":"#ffffff"},

@@ -1,0 +1,1 @@
+![[ContadorDaMorte.jpg]]

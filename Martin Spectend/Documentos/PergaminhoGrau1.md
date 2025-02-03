@@ -1,0 +1,1 @@
+![[PergaminhoGrau1.jpg]]

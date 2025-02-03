@@ -1,0 +1,3 @@
+![[Santa.jpg]]
+
+"Santa, oh Minha Santa, eu sinto sua falta. Você foi tudo que Lúcifer não foi. Eu sinto sua falta o suficiente para cometer qualquer ato em nome da Primeira Igreja. Lembra-se daquele trio de Arquivistas? Bem, lembro do cheiro deles, eles estão aqui. Eu vi o filho de um deles, um homem nobre e alto, eu sei o que fazer. Vou lhe recuperar. Eu vou juntar suas peças novamente."

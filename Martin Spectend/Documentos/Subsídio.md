@@ -1,0 +1,1 @@
+![[Subsidio_.jpg]]

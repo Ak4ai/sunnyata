@@ -1,0 +1,3 @@
+![[Imagem do WhatsApp de 2025-02-03 à(s) 23.12.29_e223e40e.jpg]]
+
+"Godrick, o Inominável. Uma criatura apocalíptica mas com Cognição própria. Pensou muito em seu trono de Sangue a respeito de como aplicar a verdadeira Calamidade. Visto que, agora, uma garota seria a chave perfeita. Aquela capaz de convencer, poderia aplicar boas regras pro Verdadeiro Transcender. Foi então que ele contratou outro mensageiro do Apocalipse. No fim, não há resposta certa para o desfecho dessa peça teatral. Apenas o cheiro daquilo que adormece na 'Chama'."

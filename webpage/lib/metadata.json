@@ -1,6 +1,6 @@
 {
   "vaultName": "Sunnyata",
-  "lastExport": 1738692527141,
+  "lastExport": 1738692926411,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -311,8 +311,21 @@
     "remote-git/webpage/remote-git/martin-spectend/documentos/za.html",
     "remote-git/webpage/remote-git/martin-spectend/documentos/三つ-(3).html",
     "remote-git/webpage/remote-git/martin-spectend/mensagem.html",
+    "remote-git/webpage/remote-git/personagens/lista-de-personagens.html",
     "remote-git/webpage/remote-git/webpage/lib/html/file-tree.html",
+    "remote-git/webpage/remote-git/webpage/lib/media/6155340132a851f6089e.svg",
+    "remote-git/webpage/remote-git/webpage/lib/media/favicon.png",
+    "remote-git/webpage/remote-git/webpage/lib/scripts/graph-data.js",
+    "remote-git/webpage/remote-git/webpage/lib/styles/global-variable-styles.css",
+    "remote-git/webpage/remote-git/webpage/lib/styles/obsidian.css",
+    "remote-git/webpage/remote-git/webpage/lib/styles/other-plugins.css",
+    "remote-git/webpage/remote-git/webpage/lib/styles/supported-plugins.css",
+    "remote-git/webpage/remote-git/webpage/lib/metadata.json",
+    "remote-git/webpage/remote-git/webpage/lib/rss.xml",
+    "remote-git/webpage/remote-git/webpage/lib/search-index.json",
+    "remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/dominiqué-vertü.html",
     "remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/free.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/free-de-la-hoya.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/-ali.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01_10_1003000.html",
@@ -332,6 +345,7 @@
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/carta-para-martin.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/cognição.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/contador-da-morte.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/demônios.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/divino.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/documentos.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/exício.html",
@@ -339,6 +353,7 @@
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/flagelo.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/forger.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/gatilho.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/godrick.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hemolinfa.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hilda.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/inimigo.html",
@@ -349,6 +364,7 @@
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/lúcifer1.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notas.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele2.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/o-mundo.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/paravoceha2100anos.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/pergaminhograu1.html",
@@ -362,11 +378,135 @@
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/spectend.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/subsídio.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/tabernaculo.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/textokain.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trindade.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trio.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/umdos.html",
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/za.html",
-    "remote-git/webpage/remote-git/webpage/remote-git/pagina-inicial.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/三つ-(3).html",
+    "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/mensagem.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/personagens/lista-de-personagens.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/lib/html/file-tree.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/dominiqué-vertü.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/free.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/free-de-la-hoya.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/-ali.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01_10_1003000.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/2.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/2'.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/14c18.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/25-do-ciclo-décimo-segundo.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/a-antiga-casa.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/a-memória.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alastor.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alento.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alycent.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/ap1..1.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aquela.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aquele.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aqueledia.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/carta-para-martin.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/cognição.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/contador-da-morte.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/demônios.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/divino.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/documentos.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/exício.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/facetasuperiorgema.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/flagelo.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/forger.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/gatilho.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/godrick.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hemolinfa.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hilda.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/inimigo.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/inimigo2.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/irmao.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/kein.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/lâminas_.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/lúcifer1.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notas.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele2.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/o-mundo.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/paravoceha2100anos.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/pergaminhograu1.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiro-nêmesis.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiros-últimos.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/profecia-(o-destino-de-martin-spectend).html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/profecia-2-(pedaços-do-destino).html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/registrokain.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/santa.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/sátiro.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/spectend.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/subsídio.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/tabernaculo.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/textokain.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trindade.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trio.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/umdos.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/za.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/三つ-(3).html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/mensagem.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/lib/html/file-tree.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/free.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/-ali.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01_10_1003000.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/2.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/2'.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/14c18.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/25-do-ciclo-décimo-segundo.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/a-antiga-casa.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/a-memória.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alastor.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alento.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alycent.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/ap1..1.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aquela.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aquele.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aqueledia.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/carta-para-martin.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/cognição.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/contador-da-morte.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/divino.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/documentos.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/exício.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/facetasuperiorgema.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/flagelo.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/forger.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/gatilho.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hemolinfa.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hilda.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/inimigo.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/inimigo2.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/irmao.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/kein.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/lâminas_.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/lúcifer1.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notas.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/o-mundo.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/paravoceha2100anos.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/pergaminhograu1.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiro-nêmesis.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiros-últimos.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/profecia-(o-destino-de-martin-spectend).html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/profecia-2-(pedaços-do-destino).html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/registrokain.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/santa.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/sátiro.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/spectend.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/subsídio.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/tabernaculo.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trindade.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trio.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/umdos.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/za.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/pagina-inicial.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/home-page.html",
+    "remote-git/webpage/remote-git/webpage/remote-git/home-page.html",
     "remote-git/webpage/remote-git/home-page.html",
     "remote-git/Home Page.md",
     "lib/scripts/graph-wasm.wasm",
@@ -1773,181 +1913,181 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 163145,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 237468,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 4695,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 137228,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 11489,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 114663,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 1637,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -2097,13 +2237,13 @@
       "dependencies": []
     },
     "remote-git/webpage/lib/html/file-tree.html": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 131005,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 202833,
       "exportedPath": "remote-git/webpage/lib/html/file-tree.html",
       "dependencies": []
     },
     "remote-git/webpage/lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 315,
       "exportedPath": "remote-git/webpage/lib/media/6155340132a851f6089e.svg",
       "dependencies": []
@@ -2115,8 +2255,8 @@
       "dependencies": []
     },
     "remote-git/webpage/lib/scripts/graph-data.js": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 4625,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 4701,
       "exportedPath": "remote-git/webpage/lib/scripts/graph-data.js",
       "dependencies": []
     },
@@ -2169,7 +2309,7 @@
       "dependencies": []
     },
     "remote-git/webpage/lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 262,
       "exportedPath": "remote-git/webpage/lib/styles/global-variable-styles.css",
       "dependencies": []
@@ -2187,32 +2327,32 @@
       "dependencies": []
     },
     "remote-git/webpage/lib/styles/other-plugins.css": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 11489,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 114663,
       "exportedPath": "remote-git/webpage/lib/styles/other-plugins.css",
       "dependencies": []
     },
     "remote-git/webpage/lib/styles/supported-plugins.css": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 1637,
       "exportedPath": "remote-git/webpage/lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "remote-git/webpage/lib/metadata.json": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 138929,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 197899,
       "exportedPath": "remote-git/webpage/lib/metadata.json",
       "dependencies": []
     },
     "remote-git/webpage/lib/rss.xml": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 78893,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 79043,
       "exportedPath": "remote-git/webpage/lib/rss.xml",
       "dependencies": []
     },
     "remote-git/webpage/lib/search-index.json": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 132342,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 129523,
       "exportedPath": "remote-git/webpage/lib/search-index.json",
       "dependencies": []
     },
@@ -2769,7 +2909,7 @@
       "dependencies": []
     },
     "remote-git/webpage/remote-git/martin-spectend/documentos/documentos.html": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692782066,
       "sourceSize": 364735,
       "exportedPath": "remote-git/webpage/remote-git/martin-spectend/documentos/documentos.html",
       "dependencies": []
@@ -2811,7 +2951,7 @@
       "dependencies": []
     },
     "remote-git/webpage/remote-git/martin-spectend/documentos/hilda.html": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692782066,
       "sourceSize": 15405,
       "exportedPath": "remote-git/webpage/remote-git/martin-spectend/documentos/hilda.html",
       "dependencies": []
@@ -2859,7 +2999,7 @@
       "dependencies": []
     },
     "remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele.html": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692782066,
       "sourceSize": 15584,
       "exportedPath": "remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele.html",
       "dependencies": []
@@ -2895,7 +3035,7 @@
       "dependencies": []
     },
     "remote-git/webpage/remote-git/martin-spectend/documentos/primeiros-últimos.html": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692782066,
       "sourceSize": 15289,
       "exportedPath": "remote-git/webpage/remote-git/martin-spectend/documentos/primeiros-últimos.html",
       "dependencies": []
@@ -2973,8 +3113,8 @@
       "dependencies": []
     },
     "remote-git/Home Page.md": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 659,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 826,
       "exportedPath": "remote-git/home-page.html",
       "dependencies": [
         "remote-git/homepage-assets/sunnyata-sistema-1-08.png"
@@ -2987,7 +3127,7 @@
       "dependencies": []
     },
     "remote-git/homepage-assets/sunnyata-sistema-1-08.png": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692926411,
       "sourceSize": 620023,
       "exportedPath": "remote-git/homepage-assets/sunnyata-sistema-1-08.png",
       "dependencies": []
@@ -3011,19 +3151,19 @@
       "dependencies": []
     },
     "remote-git/webpage/remote-git/martin-spectend/documentos/demônios.html": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692782066,
       "sourceSize": 14756,
       "exportedPath": "remote-git/webpage/remote-git/martin-spectend/documentos/demônios.html",
       "dependencies": []
     },
     "remote-git/webpage/remote-git/martin-spectend/documentos/godrick.html": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692782066,
       "sourceSize": 15170,
       "exportedPath": "remote-git/webpage/remote-git/martin-spectend/documentos/godrick.html",
       "dependencies": []
     },
     "remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele2.html": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692782066,
       "sourceSize": 14712,
       "exportedPath": "remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele2.html",
       "dependencies": []
@@ -3035,20 +3175,20 @@
       "dependencies": []
     },
     "remote-git/webpage/remote-git/martin-spectend/documentos/三つ-(3).html": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692782066,
       "sourceSize": 14890,
       "exportedPath": "remote-git/webpage/remote-git/martin-spectend/documentos/三つ-(3).html",
       "dependencies": []
     },
     "remote-git/webpage/remote-git/martin-spectend/mensagem.html": {
-      "modifiedTime": 1738692527141,
+      "modifiedTime": 1738692782066,
       "sourceSize": 15452,
       "exportedPath": "remote-git/webpage/remote-git/martin-spectend/mensagem.html",
       "dependencies": []
     },
     "remote-git/webpage/remote-git/webpage/lib/html/file-tree.html": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 52805,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 163321,
       "exportedPath": "remote-git/webpage/remote-git/webpage/lib/html/file-tree.html",
       "dependencies": []
     },
@@ -3179,8 +3319,8 @@
       "dependencies": []
     },
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/documentos.html": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 232557,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 364735,
       "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/documentos.html",
       "dependencies": []
     },
@@ -3221,8 +3361,8 @@
       "dependencies": []
     },
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hilda.html": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 14672,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15405,
       "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hilda.html",
       "dependencies": []
     },
@@ -3269,8 +3409,8 @@
       "dependencies": []
     },
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele.html": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 15246,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15584,
       "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele.html",
       "dependencies": []
     },
@@ -3299,8 +3439,8 @@
       "dependencies": []
     },
     "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiros-últimos.html": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 15261,
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15289,
       "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiros-últimos.html",
       "dependencies": []
     },
@@ -3376,16 +3516,856 @@
       "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/za.html",
       "dependencies": []
     },
-    "remote-git/webpage/remote-git/webpage/remote-git/pagina-inicial.html": {
-      "modifiedTime": 1738692527141,
-      "sourceSize": 14654,
-      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/pagina-inicial.html",
+    "remote-git/webpage/remote-git/home-page.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 147263,
+      "exportedPath": "remote-git/webpage/remote-git/home-page.html",
       "dependencies": []
     },
-    "remote-git/webpage/remote-git/home-page.html": {
-      "modifiedTime": 1738692527141,
+    "remote-git/webpage/remote-git/personagens/lista-de-personagens.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14411,
+      "exportedPath": "remote-git/webpage/remote-git/personagens/lista-de-personagens.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 315,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/lib/media/favicon.png": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 1105,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/lib/media/favicon.png",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/lib/scripts/graph-data.js": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 4733,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 262,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/lib/styles/obsidian.css": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 137240,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/lib/styles/other-plugins.css": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 11489,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/lib/styles/supported-plugins.css": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 1637,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/lib/metadata.json": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 164980,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/lib/metadata.json",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/lib/rss.xml": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 79428,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/lib/rss.xml",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/lib/search-index.json": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 139172,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/lib/search-index.json",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/dominiqué-vertü.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14386,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/dominiqué-vertü.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/free-de-la-hoya.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14600,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/free-de-la-hoya.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/demônios.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14756,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/demônios.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/godrick.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15170,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/godrick.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele2.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14712,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele2.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/textokain.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14666,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/textokain.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/三つ-(3).html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14890,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/三つ-(3).html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/mensagem.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15452,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/mensagem.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/lib/html/file-tree.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 131005,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/free.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 26975,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/free.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/-ali.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15141,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/-ali.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14741,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01_10_1003000.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15172,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01_10_1003000.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/2.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15217,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/2.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/2'.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15273,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/2'.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/14c18.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14661,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/14c18.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/25-do-ciclo-décimo-segundo.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15139,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/25-do-ciclo-décimo-segundo.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/a-antiga-casa.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14770,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/a-antiga-casa.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/a-memória.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15416,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/a-memória.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alastor.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15841,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alastor.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alento.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14769,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alento.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alycent.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15170,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alycent.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/ap1..1.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14900,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/ap1..1.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aquela.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14681,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aquela.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aquele.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15833,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aquele.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aqueledia.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14611,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aqueledia.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/carta-para-martin.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14944,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/carta-para-martin.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/cognição.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14916,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/cognição.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/contador-da-morte.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14729,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/contador-da-morte.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/divino.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14813,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/divino.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/documentos.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 364735,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/documentos.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/exício.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14574,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/exício.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/facetasuperiorgema.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15186,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/facetasuperiorgema.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/flagelo.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14769,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/flagelo.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/forger.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14563,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/forger.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/gatilho.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14841,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/gatilho.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hemolinfa.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14611,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hemolinfa.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hilda.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15405,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hilda.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/inimigo.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15453,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/inimigo.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/inimigo2.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14978,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/inimigo2.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/irmao.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14928,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/irmao.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/kein.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14531,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/kein.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/lâminas_.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14606,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/lâminas_.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/lúcifer1.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15154,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/lúcifer1.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notas.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14820,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notas.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15584,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/o-mundo.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14903,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/o-mundo.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/paravoceha2100anos.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15235,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/paravoceha2100anos.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/pergaminhograu1.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14707,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/pergaminhograu1.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiro-nêmesis.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15048,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiro-nêmesis.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiros-últimos.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15289,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiros-últimos.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/profecia-(o-destino-de-martin-spectend).html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 16112,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/profecia-(o-destino-de-martin-spectend).html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/profecia-2-(pedaços-do-destino).html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 16148,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/profecia-2-(pedaços-do-destino).html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/registrokain.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15308,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/registrokain.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/santa.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14974,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/santa.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/sátiro.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15823,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/sátiro.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/spectend.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14768,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/spectend.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/subsídio.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14611,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/subsídio.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/tabernaculo.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15486,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/tabernaculo.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trindade.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15109,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trindade.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trio.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15040,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trio.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/umdos.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 15377,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/umdos.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/za.html": {
+      "modifiedTime": 1738692782066,
+      "sourceSize": 14655,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/za.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/home-page.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 147386,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/home-page.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/personagens/lista-de-personagens.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14411,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/personagens/lista-de-personagens.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/dominiqué-vertü.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14386,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/dominiqué-vertü.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/free-de-la-hoya.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14600,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/free-de-la-hoya.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/demônios.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14756,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/demônios.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/godrick.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15170,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/godrick.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele2.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14712,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele2.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/textokain.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14666,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/textokain.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/三つ-(3).html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14890,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/三つ-(3).html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/mensagem.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15452,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/mensagem.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/lib/html/file-tree.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 52805,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/free.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 26975,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/free-de-la-hoya/free.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/-ali.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15141,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/-ali.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14741,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01_10_1003000.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15172,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/01_10_1003000.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/2.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15217,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/2.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/2'.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15273,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/2'.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/14c18.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14661,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/14c18.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/25-do-ciclo-décimo-segundo.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15139,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/25-do-ciclo-décimo-segundo.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/a-antiga-casa.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14770,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/a-antiga-casa.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/a-memória.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15416,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/a-memória.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alastor.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15841,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alastor.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alento.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14769,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alento.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alycent.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15170,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/alycent.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/ap1..1.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14900,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/ap1..1.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aquela.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14681,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aquela.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aquele.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15833,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aquele.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aqueledia.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14611,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/aqueledia.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/carta-para-martin.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14944,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/carta-para-martin.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/cognição.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14916,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/cognição.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/contador-da-morte.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14729,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/contador-da-morte.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/divino.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14813,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/divino.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/documentos.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 232557,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/documentos.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/exício.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14574,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/exício.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/facetasuperiorgema.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15186,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/facetasuperiorgema.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/flagelo.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14769,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/flagelo.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/forger.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14563,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/forger.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/gatilho.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14841,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/gatilho.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hemolinfa.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14611,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hemolinfa.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hilda.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14672,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/hilda.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/inimigo.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15453,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/inimigo.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/inimigo2.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14978,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/inimigo2.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/irmao.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14928,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/irmao.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/kein.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14531,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/kein.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/lâminas_.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14606,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/lâminas_.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/lúcifer1.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15154,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/lúcifer1.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notas.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14820,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notas.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15246,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/notasdaquele.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/o-mundo.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14903,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/o-mundo.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/paravoceha2100anos.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15235,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/paravoceha2100anos.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/pergaminhograu1.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14707,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/pergaminhograu1.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiro-nêmesis.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15048,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiro-nêmesis.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiros-últimos.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15261,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/primeiros-últimos.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/profecia-(o-destino-de-martin-spectend).html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 16112,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/profecia-(o-destino-de-martin-spectend).html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/profecia-2-(pedaços-do-destino).html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 16148,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/profecia-2-(pedaços-do-destino).html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/registrokain.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15308,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/registrokain.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/santa.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14974,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/santa.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/sátiro.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15823,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/sátiro.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/spectend.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14768,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/spectend.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/subsídio.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14611,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/subsídio.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/tabernaculo.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15486,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/tabernaculo.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trindade.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15109,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trindade.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trio.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15040,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/trio.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/umdos.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 15377,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/umdos.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/za.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14655,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/martin-spectend/documentos/za.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/pagina-inicial.html": {
+      "modifiedTime": 1738692926411,
+      "sourceSize": 14654,
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/pagina-inicial.html",
+      "dependencies": []
+    },
+    "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/home-page.html": {
+      "modifiedTime": 1738692926411,
       "sourceSize": 148059,
-      "exportedPath": "remote-git/webpage/remote-git/home-page.html",
+      "exportedPath": "remote-git/webpage/remote-git/webpage/remote-git/webpage/remote-git/home-page.html",
       "dependencies": []
     }
   }

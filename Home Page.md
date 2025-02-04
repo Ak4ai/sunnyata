@@ -5,8 +5,6 @@ banner_y: 0.48
 
 
 
-# Home Page
-
 > [!TIP] Documentos
 > <div style="display: flex; justify-content: center;">
 > 
@@ -21,21 +19,8 @@ banner_y: 0.48
 > 
 > </div>
 
-> [!WARNING] Mapa de Dione
-> ## Dione
+> [!MISSING] Mapa de Dione
+> ## [[Dione.canvas|Dione]]
+>![[SUNNYATA-SISTEMA-1-08.png]]
 >
->```leaflet 
->id: leaflet-map 
->image: [[SUNNYATA-SISTEMA-1-08.png]] 
->height: 500px 
->lat: 50 
->long: 50 
->minZoom: 0.5
->maxZoom: 3.5
->defaultZoom: 2
->unit: meters 
->scale: 1 
->marker: default, 39.983334, -82.983330, [[Note]] 
->darkMode: false 
->```
 

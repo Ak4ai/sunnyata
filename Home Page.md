@@ -7,42 +7,19 @@ banner_y: 0.48
 
 # Home Page
 
---- start-multi-column: ID_hbzz
-```column-settings
-Number of Columns: 2
-Largest Column: off
-border: off
-```
-
 > [!TIP] Documentos
 > <div style="display: flex; justify-content: center;">
 > 
->```button
->name Documentos
->type link
->action obsidian://open?vault=Sunnyata&file=remote-git%2FMartin%20Spectend%2FDocumentos%2FDocumentos.canvas
->customColor #53DFDD
->customTextColor #000
->```
+>[[Documentos.canvas|Documentos]]
 > 
 > </div>
-
---- column-break ---
 
 > [!INFO] Personagens
 > <div style="display: flex; justify-content: center;">
 > 
->```button
->name Documentos
->type link
->action obsidian://open?vault=Sunnyata&file=remote-git%2FMartin%20Spectend%2FDocumentos%2FDocumentos.canvas
->customColor #4E658A
->customTextColor #000
->```
+>[[Lista de Personagens]]
 > 
 > </div>
-
---- end-multi-column
 
 > [!WARNING] Mapa de Dione
 > ## Dione

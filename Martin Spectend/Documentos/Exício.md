@@ -1,1 +1,1 @@
-![[Exicio.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Exicio.jpg]]

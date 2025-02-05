@@ -1,4 +1,4 @@
-![[UmDos.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/UmDos.jpg]]
 
 “Ammit é uma das únicas criaturas capazes de carregar um dos Fragmentos do Ritual da Verdadeira Transcendência, que é a parte bruta do Flagelo em seu sangue, ele é um homem conhecido por amor? Não, por conhecimento”
 

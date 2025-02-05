@@ -1,4 +1,4 @@
-![[Profecia.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Profecia.jpg]]
 
 Na névoa que se curva em direção ao vazio, 
 Martin caminha, um enigma das trevas. 

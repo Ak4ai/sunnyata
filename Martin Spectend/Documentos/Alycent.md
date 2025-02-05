@@ -1,4 +1,4 @@
-![[Alycent.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Alycent.jpg]]
 
 Notas Recentes de Alicenty (pseudônimo Alycent), da Igreja Chama Negra, que foi subjulgado após criar uma criatura provenienre de Hemolinfa e manipulação do Flagelo.
 

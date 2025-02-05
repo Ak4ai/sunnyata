@@ -1,4 +1,4 @@
-![[NotasDaquele.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/NotasDaquele.jpg]]
 
 Teoria escrita pelo Eris em seu diário. Falando acerca das possíveis maneiras de matematicamente descrever a progressão do Verdadeiro Transcender.
 

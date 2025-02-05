@@ -1,4 +1,4 @@
-![[ParaVoceHa2100Anos.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/ParaVoceHa2100Anos.jpg]]
 
 Foto do Kain e Alastor brigando.
 

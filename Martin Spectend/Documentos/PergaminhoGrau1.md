@@ -1,1 +1,1 @@
-![[PergaminhoGrau1.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/PergaminhoGrau1.jpg]]

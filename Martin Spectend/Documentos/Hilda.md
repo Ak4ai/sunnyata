@@ -1,4 +1,4 @@
-![[Hilda.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Hilda.jpg]]
 
 Um arquivo que as Máscaras deixaram umas para as outras. Vcs encontram na pousada.
 

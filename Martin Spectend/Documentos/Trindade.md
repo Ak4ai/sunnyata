@@ -1,4 +1,4 @@
-![[Trindade.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Trindade.jpg]]
 
 Foto do Alastor.
 

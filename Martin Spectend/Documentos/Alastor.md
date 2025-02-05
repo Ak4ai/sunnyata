@@ -1,4 +1,4 @@
-![[Alastor.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Alastor.jpg]]
 
 A Tristeza de Alastor
 

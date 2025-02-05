@@ -1,4 +1,4 @@
-![[1_.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/1_.jpg]]
 
 Os elementos tem relação com Catastrofismo Espinhal
 

@@ -1,3 +1,3 @@
-![[PrimeirosUltimos.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/PrimeirosUltimos.jpg]]
 
 "[..] Se lembra da história dos Muller? Subjugados, assim como os Spectend e Morningstar. São poucos aqueles que detém poder hoje em dia, é complexo averiguar. Todos eles têm uma relação única devido a N. Bem como os Goetia, há crianças nobres e puras que ainda perpetuam em tronos devido àquele acordo que eles firmara. Ou você aceita, ou você condena sua família, né? Bem, de qualquer forma, isso é uma história para outro dia, Deimos. Até lá, encontre ela. [..]"

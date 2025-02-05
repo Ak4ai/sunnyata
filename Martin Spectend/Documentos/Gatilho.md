@@ -1,4 +1,4 @@
-![[Gatilho.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Gatilho.jpg]]
 
 "Hilda, a primeria parcela"
 

@@ -1,4 +1,4 @@
-![[Picsart_25-01-18_07-15-43-095.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Picsart_25-01-18_07-15-43-095.jpg]]
 
 Quem escreveu essa carta foi sua antiga parceira Alicent. Depois de decidir auxiliar as Máscaras. A mesma se hospedou na pousada devido a uma jornada que trilhou durante os ultimos ciclos.
 

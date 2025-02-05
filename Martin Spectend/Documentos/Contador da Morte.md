@@ -1,1 +1,1 @@
-![[ContadorDaMorte.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/ContadorDaMorte.jpg]]

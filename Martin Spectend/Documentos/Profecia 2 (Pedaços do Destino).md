@@ -1,4 +1,4 @@
-![[Profecia2.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Profecia2.jpg]]
 
 Em Ostrakis, a névoa do caos surgiu, 
 Uma doença desconhecida cobriu o céu e desapareceu. 

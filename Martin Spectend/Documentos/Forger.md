@@ -1,1 +1,1 @@
-![[Forger.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Forger.jpg]]

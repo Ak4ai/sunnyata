@@ -1,4 +1,4 @@
-![[Aquele.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Aquele.jpg]]
 
 "Um pequeno deslize fez com que eu nascesse. O primeiro. Eu era um garoto impudente, a revolta iniciou-se em meu coração, mas antes de mais nada eu era nulo. A solitude me deu possibilidade de cultivar a indiferença. E então eu era a Antítese. Eu era fruto da união dos antigos títulos do Mundo Perdido. Eu tinha memórias de todas as histórias passadas. Eu era a ponte final, o início e o fim da Calamidade. E então, eu era nada, eu era disperso, e eu sou o que vocês procuram. Eu observo vocês e eu sempre observarei. Não só aqui, em todas as realidades."
 

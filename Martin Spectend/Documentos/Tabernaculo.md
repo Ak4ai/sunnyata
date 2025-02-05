@@ -1,4 +1,4 @@
-![[Tabernaculo.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Tabernaculo.jpg]]
 Apocalipse 18:1-5
 
 Uma foto do Kain ainda no tempos antigos.

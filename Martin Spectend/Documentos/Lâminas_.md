@@ -1,1 +1,1 @@
-![[Laminas_.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Laminas_.jpg]]

@@ -1,4 +1,4 @@
-![[FacetaSuperiorGema.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/FacetaSuperiorGema.jpg]]
 
 "João 1:1-5"
 

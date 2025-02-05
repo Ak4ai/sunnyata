@@ -1,4 +1,4 @@
-![[Trio.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Trio.jpg]]
 
  A direta tem se o Alastor, no meio o Asmodeus e na esquerda o Kain. 
  

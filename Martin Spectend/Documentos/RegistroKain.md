@@ -1,4 +1,4 @@
-![[RegistroKain.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/RegistroKain.jpg]]
 
 Naquele dia, A Flor criou o primeiro Dragão, formado pelos Cosmos que refletiam o infinito das mentes individuais, Este, por sua vez, deu vida aos demais da sua raça. A Besta Prístina, formada de luz, e até hoje cultuada por Eidolins.
 

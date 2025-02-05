@@ -1,4 +1,4 @@
-![[Cognicao_.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Cognicao_.jpg]]
 
 Ocultado em preto está escrito:
 - Carapaça 

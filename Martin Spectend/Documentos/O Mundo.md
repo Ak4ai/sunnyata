@@ -1,4 +1,4 @@
-![[OMundo.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/OMundo.jpg]]
 
 Uma carta de tarô, com alguns pontos de interesse:
 

@@ -1,2 +1,2 @@
-![[Inimigo2.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Inimigo2.jpg]]
  "[..] Em algum lugar dentro da floresta enevoada de Ostrakis, existe um pequeno totem feito de uma parcela de Chama Negra Antiga. Muitas criaturas, incluindo inocentes, foram ateadas a mesma. Um dos antigos 'Nêmesis' foi responsável por criar um culto ocultado pelas antigas Casas que fazia atos hediondos. Como saquear as vilas de Veneza, Vienna, Villand e entre outras [..]"

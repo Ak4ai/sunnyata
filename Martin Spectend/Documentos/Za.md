@@ -1,4 +1,4 @@
-![[Za.jpg]]
+![[remote-git/Martin Spectend/Documentos/ImagensPedro/Za.jpg]]
 
 "O Mundo"
 "A Absoluta"

@@ -1,11 +1,8 @@
 ![[Mensagem.jpg]]
 
-Malaquias 1:1-2 -> Peso da palavra do SENHOR contra Israel, por intermédio de Malaquias. Eu vos tenho amado, diz o Senhor. Mas vós dizeis: Em que nos tens amado?
+Mais uma pista sobre aquelas 'engrenagens'. Vc tem que entender que as vezes com alguma habilidade, não é só a energia que vc vai gastar que é realmente o problema, as vezes vai ser as fontes que vc vai ter ali que de explosão de energia que vc vai ter que capturar por um dado momento de tempo e utilizar isso para fazer a manipulação de algo que vc deseja muito profundamente. 
 
-1Reis 1:3 -> E buscaram por todos os termos de Israel uma moça formosa, e acharam a Abisague, sunamita; e a trouxeram ao rei.
+Isso só é possível também com flagelo, que é muito importante para transformações ou para coisas muito voláteis, além de te dar muita possibilidade de fazer coisas que seria inviável naturalmente. Com o flagelo você pode até fazer uma máquina 100% eficiente de energia, só que ela vai ter que ter contato com flagelo que possivelmente vai corroer as peças, ou algo nesse sentido.
 
-1Timoteo 1:4-5 -> Nem se deem a fábulas nem a genealogias intermináveis, que mais produzem questões do que edificação de Deus, que consiste na fé, assim o faço agora. Ora, o fim do mandamento é a caridade de um coração puro, e de uma boa consciência, e de uma fé não fingida.
+Os números (1-2, 3, 4-5, 6), além de indicarem versículos, formam um anagrama para 'Martin'. O que indica que o Martin é uma das engrenagens
 
-Neemias 1:6 -> Do que, desviando-se alguns, se entregaram a vãs contendas.
-
-⁠Eclesiastes 1:1 -> Palavras do pregador, filho de Davi, rei em Jerusalém.

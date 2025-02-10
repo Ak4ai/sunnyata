@@ -5,3 +5,7 @@ Um pequeno conto do braço direito, Eris a segunda cabeça draconiana, aquele qu
 "Aquele que reside no véu entre diversos mundos. Inclusive o mais livre." - perna esquerda
 
 " Uma vez, eu nasci, e então não se fez mais nada. Uma vez eu morri, e então não se fez mais nada. E milhares de vezes eu vivi, e então eu fiz algo" - perna direita
+
+Eris, uma criatura enigmática. Presente em diversas passagens, como um espectro da história. Sua história, apesar de incerta, demonstra certa similaridade com a incógnita da qual a vida se assemelha.
+
+Afinal, qual o limite de uma existência? O que realmente define a morte? E se esses limites pudessem ser não ultrapassados, mas inexistidos?

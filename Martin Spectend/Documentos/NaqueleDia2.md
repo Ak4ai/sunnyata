@@ -1,0 +1,3 @@
+![[NaqueleDia2.jpg]]
+
+No fundo, as últimas pinturas de Alastor. A Chama Negra foi um dos artefatos mais importantes da história de Dione, seu poder e conhecimento atrelados aquele grupo de cientistas foi capaz de moldar uma realidade única de um tempo em diante. Mas onde ela se encontra atualmente? Grande parte dela permanece no sangue dos malditos Alastor's, enquanto seus demais fragmentos ficam dispersos em ambiente ou da Igreja de mesmo nome.

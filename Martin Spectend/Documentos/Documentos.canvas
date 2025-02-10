@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"87175142b37a412f","type":"file","file":"remote-git/Martin Spectend/Documentos/Inimigo.md","x":-3046,"y":2913,"width":487,"height":1083},
 		{"id":"2d4184d790a51fdd","type":"file","file":"remote-git/Martin Spectend/Documentos/Pasted image 20250120113248.png","x":-2423,"y":2980,"width":440,"height":626},
-		{"id":"5caa78b06ed2f2a0","type":"file","file":"remote-git/Martin Spectend/Documentos/NotasDaquele.md","x":-2726,"y":4347,"width":487,"height":1173},
 		{"id":"809939a4d722e61c","type":"file","file":"remote-git/Martin Spectend/Documentos/Subsídio.md","x":2356,"y":-2100,"width":400,"height":620},
 		{"id":"e00453e3aba78eea","type":"file","file":"remote-git/Martin Spectend/Documentos/Cognição.md","x":1796,"y":-3020,"width":440,"height":860},
 		{"id":"b9870336e05cf408","type":"file","file":"remote-git/Martin Spectend/Documentos/Exício.md","x":1816,"y":-1420,"width":400,"height":640},
@@ -31,7 +30,6 @@
 		{"id":"c45da894e18a43b7","type":"file","file":"remote-git/Martin Spectend/Documentos/Spectend.md","x":-2753,"y":-3035,"width":520,"height":895},
 		{"id":"b77a7fbbee11d825","type":"file","file":"remote-git/Martin Spectend/Documentos/A Antiga Casa.md","x":-2053,"y":-3035,"width":520,"height":895},
 		{"id":"e556b3f385a58149","type":"file","file":"remote-git/Martin Spectend/Documentos/Forger.md","x":-2351,"y":-2075,"width":459,"height":720},
-		{"id":"dfdbd9cc9f620b4c","type":"file","file":"remote-git/Martin Spectend/Documentos/NotasDaquele2.md","x":-2120,"y":4414,"width":487,"height":1040},
 		{"id":"b845ed6e130f8206","type":"file","file":"remote-git/Martin Spectend/Documentos/CRÔNICAS EFÊMERAS - VII.pdf","x":-5437,"y":-3280,"width":730,"height":560},
 		{"id":"ef2f5a5970df7753","type":"text","text":"Eris Wolfgang, a segunda cabeça draconiana, o atual Nêmesis.\n\nAparentemente é um metamorfo. Parece conseguir \"roubar\" habilidades, além de ser capaz de produzir poemas e documentos. Tem a capacidade de quebrar a 'quarta parede'.","x":-2453,"y":3760,"width":500,"height":160,"color":"#ffffff"},
 		{"id":"0937f3c47abf2be3","type":"file","file":"remote-git/Martin Spectend/Documentos/Inimigo2.md","x":-1860,"y":2913,"width":480,"height":1083},
@@ -94,7 +92,11 @@
 		{"id":"0c44f0739a932ab7","type":"file","file":"remote-git/Martin Spectend/Documentos/FilhosDaLuz.md","x":1782,"y":4177,"width":400,"height":843},
 		{"id":"f8931d61d8fd8155","type":"file","file":"remote-git/Martin Spectend/Documentos/Za.md","x":2684,"y":3203,"width":440,"height":500},
 		{"id":"c29c5c6f14000b7d","type":"link","url":"https://docs.google.com/document/d/1WqIRiQYy5I9yNxga-T-qHdEAGEF1o6BQuKrTDmTAJTo/edit?usp=drivesdk","x":1982,"y":2261,"width":922,"height":622},
-		{"id":"501fefdee32a2c0c","type":"text","text":"                LAXASIA\n\nA Monarca, A Absoluta\n\nSeu poder \"O Mundo\" consegue parar o tempo.","x":2725,"y":2965,"width":360,"height":197,"color":"#ffffff"}
+		{"id":"501fefdee32a2c0c","type":"text","text":"                LAXASIA\n\nA Monarca, A Absoluta\n\nSeu poder \"O Mundo\" consegue parar o tempo.","x":2725,"y":2965,"width":360,"height":197,"color":"#ffffff"},
+		{"id":"5caa78b06ed2f2a0","type":"file","file":"remote-git/Martin Spectend/Documentos/NotasDaquele.md","x":-3046,"y":4434,"width":487,"height":1173},
+		{"id":"dfdbd9cc9f620b4c","type":"file","file":"remote-git/Martin Spectend/Documentos/NotasDaquele2.md","x":-2306,"y":4611,"width":487,"height":819},
+		{"id":"d2ccd8efe5b6fdeb","x":-1575,"y":4408,"width":487,"height":1280,"type":"file","file":"remote-git/Martin Spectend/Documentos/AnotaçõesEris.md"},
+		{"id":"21a9852fbca72638","x":-781,"y":4728,"width":487,"height":640,"type":"file","file":"remote-git/Martin Spectend/Documentos/AnotaçõesEris2.md"}
 	],
 	"edges":[
 		{"id":"b53772213f4f6de2","fromNode":"87175142b37a412f","fromSide":"right","toNode":"0937f3c47abf2be3","toSide":"left","fromEnd":"arrow","color":"#ffffff"},
@@ -152,6 +154,7 @@
 		{"id":"00a7a65db90b893b","fromNode":"f9f627eeca95e6b9","fromSide":"bottom","toNode":"4c692f652a4b1287","toSide":"top","color":"#ffffff"},
 		{"id":"58790bf14658d419","fromNode":"b412e114596e4923","fromSide":"right","toNode":"f9f627eeca95e6b9","toSide":"left","color":"#ffffff"},
 		{"id":"3707d4b61f4b9549","fromNode":"c37ec93a47cd13fa","fromSide":"left","toNode":"e080a6069d546216","toSide":"right","fromEnd":"arrow","color":"#ffffff"},
-		{"id":"bdaa635e155237ac","fromNode":"825877a3548c5ecc","fromSide":"left","toNode":"b61999e8a43a07db","toSide":"right","color":"#ffffff"}
+		{"id":"bdaa635e155237ac","fromNode":"825877a3548c5ecc","fromSide":"left","toNode":"b61999e8a43a07db","toSide":"right","color":"#ffffff"},
+		{"id":"35b23cf01e3a6c69","fromNode":"d2ccd8efe5b6fdeb","fromSide":"right","toNode":"21a9852fbca72638","toSide":"left","fromEnd":"arrow","color":"#ffffff"}
 	]
 }

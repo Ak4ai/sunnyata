@@ -97,7 +97,9 @@
 		{"id":"c29c5c6f14000b7d","type":"link","url":"https://docs.google.com/document/d/1WqIRiQYy5I9yNxga-T-qHdEAGEF1o6BQuKrTDmTAJTo/edit?usp=drivesdk","x":1982,"y":2200,"width":922,"height":622},
 		{"id":"501fefdee32a2c0c","type":"text","text":"                LAXASIA\n\nA Monarca, A Absoluta\n\nSeu poder \"O Mundo\" consegue parar o tempo.","x":2724,"y":2884,"width":360,"height":197,"color":"#ffffff"},
 		{"id":"f8931d61d8fd8155","type":"file","file":"remote-git/Martin Spectend/Documentos/Za.md","x":2684,"y":3075,"width":440,"height":737},
-		{"id":"1d2c9a9bfc3cd971","x":-755,"y":5794,"width":487,"height":680,"type":"file","file":"remote-git/Martin Spectend/Documentos/Fundação.md"}
+		{"id":"df12d5571b3363fb","type":"file","file":"remote-git/Martin Spectend/Documentos/Arquivista.md","x":-3046,"y":5794,"width":487,"height":1026},
+		{"id":"09648b5639d99828","type":"file","file":"remote-git/Martin Spectend/Documentos/Dijkstra.md","x":-2306,"y":5801,"width":487,"height":853},
+		{"id":"1d2c9a9bfc3cd971","type":"file","file":"remote-git/Martin Spectend/Documentos/Fundação.md","x":-1575,"y":5888,"width":487,"height":680}
 	],
 	"edges":[
 		{"id":"b53772213f4f6de2","fromNode":"87175142b37a412f","fromSide":"right","toNode":"0937f3c47abf2be3","toSide":"left","fromEnd":"arrow","color":"#ffffff"},
@@ -138,7 +140,6 @@
 		{"id":"9ec0ab554d60a0d2","fromNode":"87175142b37a412f","fromSide":"left","toNode":"2b27c1ed267caeb0","toSide":"right","fromEnd":"arrow","color":"#ffffff"},
 		{"id":"25ed59a50347654c","fromNode":"0937f3c47abf2be3","fromSide":"left","toNode":"82ce558c57463c1d","toSide":"bottom","color":"#ffffff"},
 		{"id":"c0a646e5415bd405","fromNode":"87175142b37a412f","fromSide":"right","toNode":"82ce558c57463c1d","toSide":"bottom","fromEnd":"arrow","color":"#ffffff"},
-		{"id":"2998f1bca9cce5ce","fromNode":"5caa78b06ed2f2a0","fromSide":"right","toNode":"dfdbd9cc9f620b4c","toSide":"left","fromEnd":"arrow","color":"#ffffff"},
 		{"id":"7a30652d50f1c94d","fromNode":"5f03c37e6fb504ef","fromSide":"right","toNode":"3ee2d724d16997cd","toSide":"left","color":"#ffffff"},
 		{"id":"2bf4dac09337ce6f","fromNode":"d55659faf6947650","fromSide":"top","toNode":"c37ec93a47cd13fa","toSide":"bottom","fromEnd":"arrow","color":"#ffffff"},
 		{"id":"3054f95484e72e73","fromNode":"825877a3548c5ecc","fromSide":"left","toNode":"3c2bcaa565f00f9c","toSide":"right","fromEnd":"arrow","color":"#ffffff"},
@@ -156,6 +157,8 @@
 		{"id":"58790bf14658d419","fromNode":"b412e114596e4923","fromSide":"right","toNode":"f9f627eeca95e6b9","toSide":"left","color":"#ffffff"},
 		{"id":"3707d4b61f4b9549","fromNode":"c37ec93a47cd13fa","fromSide":"left","toNode":"e080a6069d546216","toSide":"right","fromEnd":"arrow","color":"#ffffff"},
 		{"id":"bdaa635e155237ac","fromNode":"825877a3548c5ecc","fromSide":"left","toNode":"b61999e8a43a07db","toSide":"right","color":"#ffffff"},
-		{"id":"35b23cf01e3a6c69","fromNode":"d2ccd8efe5b6fdeb","fromSide":"right","toNode":"21a9852fbca72638","toSide":"left","fromEnd":"arrow","color":"#ffffff"}
+		{"id":"35b23cf01e3a6c69","fromNode":"d2ccd8efe5b6fdeb","fromSide":"right","toNode":"21a9852fbca72638","toSide":"left","fromEnd":"arrow","color":"#ffffff"},
+		{"id":"2998f1bca9cce5ce","fromNode":"5caa78b06ed2f2a0","fromSide":"right","toNode":"dfdbd9cc9f620b4c","toSide":"left","fromEnd":"arrow","color":"#ffffff"},
+		{"id":"c837da592e28a25c","fromNode":"dfdbd9cc9f620b4c","fromSide":"bottom","toNode":"09648b5639d99828","toSide":"top","fromEnd":"arrow","color":"#ffffff"}
 	]
 }

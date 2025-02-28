@@ -1,0 +1,1 @@
+![[MudraDeAflicao.jpg]]

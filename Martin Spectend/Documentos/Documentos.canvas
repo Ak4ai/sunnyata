@@ -103,12 +103,20 @@
 		{"id":"69fef4d32cd15c25","type":"file","file":"remote-git/Martin Spectend/Documentos/MudraAflição.md","x":-10800,"y":-2140,"width":480,"height":660},
 		{"id":"c39b112eaaf0a7a9","type":"file","file":"remote-git/Martin Spectend/Documentos/MudraAnulamento.md","x":-10200,"y":-2200,"width":480,"height":740},
 		{"id":"31c15aa0022652c8","type":"file","file":"remote-git/Martin Spectend/Documentos/FagulhaReflexo.md","x":3300,"y":5618,"width":440,"height":580},
-		{"id":"c0e2085c4eb3adc8","type":"file","file":"remote-git/Martin Spectend/Documentos/Rosa.md","x":8400,"y":-409,"width":540,"height":852},
-		{"id":"10d558483c180e1b","type":"file","file":"remote-git/Martin Spectend/Documentos/Imortal.md","x":4055,"y":10640,"width":560,"height":1280},
-		{"id":"11b3bb2e623a5e45","type":"file","file":"remote-git/Martin Spectend/Documentos/Máscara3.md","x":4880,"y":10900,"width":425,"height":760},
 		{"id":"d0efe47530ac3397","type":"file","file":"remote-git/Martin Spectend/Documentos/RegistroUniversidade.md","x":-10200,"y":1240,"width":440,"height":600},
 		{"id":"87111d6f761b5bf3","type":"file","file":"remote-git/Martin Spectend/Documentos/Alquimia1.md","x":-10760,"y":1120,"width":440,"height":840},
-		{"id":"afc36adfb7112369","x":6965,"y":5508,"width":580,"height":412,"type":"file","file":"remote-git/Martin Spectend/Documentos/Julgamento.md"}
+		{"id":"afc36adfb7112369","type":"file","file":"remote-git/Martin Spectend/Documentos/Julgamento.md","x":6965,"y":5508,"width":580,"height":412},
+		{"id":"10d558483c180e1b","type":"file","file":"remote-git/Martin Spectend/Documentos/Imortal.md","x":4055,"y":10560,"width":560,"height":1520},
+		{"id":"e12b43a7726ba127","type":"file","file":"remote-git/Martin Spectend/Documentos/BeholdAPowerOfAnAngel.md","x":5480,"y":10900,"width":560,"height":840},
+		{"id":"11b3bb2e623a5e45","type":"file","file":"remote-git/Martin Spectend/Documentos/Máscara3.md","x":4840,"y":10940,"width":425,"height":760},
+		{"id":"ef1447870b3623bc","type":"file","file":"remote-git/Martin Spectend/Documentos/MascaraDeFenix.md","x":6840,"y":9514,"width":540,"height":728},
+		{"id":"c0e2085c4eb3adc8","type":"file","file":"remote-git/Martin Spectend/Documentos/Rosa.md","x":7600,"y":9452,"width":540,"height":852},
+		{"id":"c3ecf7ad6279d92f","x":7740,"y":-3225,"width":257,"height":60,"color":"1","type":"text","text":"DOCUMENTOS CEMITÉRIO"},
+		{"id":"8ab113a942b75de3","x":7997,"y":-3080,"width":400,"height":400,"type":"file","file":"remote-git/Martin Spectend/Documentos/LivroCemitério2.md"},
+		{"id":"8547e4cea97a226f","x":7340,"y":-3080,"width":400,"height":400,"type":"file","file":"remote-git/Martin Spectend/Documentos/LivroCemitério1.md"},
+		{"id":"d39e3434accd7ab1","x":7669,"y":-2540,"width":400,"height":620,"type":"file","file":"remote-git/Martin Spectend/Documentos/Cemitério Lúcifer.md"},
+		{"id":"316d2a32870aab84","x":7120,"y":-2440,"width":400,"height":420,"type":"file","file":"remote-git/Martin Spectend/Documentos/Pergaminho Cemitério.md"},
+		{"id":"cb0619dbf325633f","x":8260,"y":-2540,"width":400,"height":620,"type":"file","file":"remote-git/Martin Spectend/Documentos/Cemitério6.md"}
 	],
 	"edges":[
 		{"id":"b53772213f4f6de2","fromNode":"87175142b37a412f","fromSide":"right","toNode":"0937f3c47abf2be3","toSide":"left","fromEnd":"arrow","color":"#ffffff"},
@@ -170,6 +178,11 @@
 		{"id":"2998f1bca9cce5ce","fromNode":"5caa78b06ed2f2a0","fromSide":"right","toNode":"dfdbd9cc9f620b4c","toSide":"left","fromEnd":"arrow","color":"#ffffff"},
 		{"id":"c837da592e28a25c","fromNode":"dfdbd9cc9f620b4c","fromSide":"bottom","toNode":"09648b5639d99828","toSide":"top","fromEnd":"arrow","color":"#ffffff"},
 		{"id":"e9a2f8bf879e027d","fromNode":"948f0992a448d80e","fromSide":"left","toNode":"31c15aa0022652c8","toSide":"right","color":"#ffffff"},
-		{"id":"3282eb5734cce44a","fromNode":"10d558483c180e1b","fromSide":"right","toNode":"11b3bb2e623a5e45","toSide":"left","fromEnd":"arrow","color":"#ffffff"}
+		{"id":"3282eb5734cce44a","fromNode":"10d558483c180e1b","fromSide":"right","toNode":"11b3bb2e623a5e45","toSide":"left","color":"#ffffff"},
+		{"id":"623c0285aa83fda8","fromNode":"11b3bb2e623a5e45","fromSide":"right","toNode":"e12b43a7726ba127","toSide":"left","fromEnd":"arrow","color":"#ffffff"},
+		{"id":"2279f81761c8af0a","fromNode":"e12b43a7726ba127","fromSide":"right","toNode":"ef1447870b3623bc","toSide":"left","color":"#ffffff"},
+		{"id":"c60a3e199f6a53e5","fromNode":"8547e4cea97a226f","fromSide":"right","toNode":"8ab113a942b75de3","toSide":"left","fromEnd":"arrow","color":"#ffffff"},
+		{"id":"896ea80f8576dcb9","fromNode":"d39e3434accd7ab1","fromSide":"top","toNode":"8547e4cea97a226f","toSide":"bottom"},
+		{"id":"c302d0c6a9b14bb8","fromNode":"d39e3434accd7ab1","fromSide":"top","toNode":"8ab113a942b75de3","toSide":"bottom"}
 	]
 }
